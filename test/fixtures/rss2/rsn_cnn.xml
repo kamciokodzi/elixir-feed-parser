@@ -1,178 +1,948 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0"><channel>
-<title>Business and financial news - CNNMoney.com</title>
-<link>http://money.cnn.com/?section=money_topstories</link>
-<description>CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.</description>
-<language>en-us</language>
-<copyright>© 2018 Cable News Network LP, LLLP.</copyright>
-<pubDate>Thu, 04 Oct 2018 05:36:36 EDT</pubDate>
-<ttl>5</ttl>
-<image>
-<title>Business and financial news - CNNMoney.com</title>
-<link>http://money.cnn.com/?section=money_topstories</link>
-<url>http://i.cnn.net/money/images/cnnmoney_logo_144x30.gif</url>
-<width>144</width>
-<height>30</height>
-<description>CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.</description>
-</image>
-<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/money_topstories" /><feedburner:info uri="rss/money_topstories" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-<title>7 things to know before the bell</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/ojHifu3N_y4/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/04/investing/premarket-stocks-trading/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/170920161756-facebook-logo-wall-120x90.jpg" height="90" width="120" />
-<description>Read full story for latest details.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/ojHifu3N_y4" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Thu, 04 Oct 2018 05:10:29 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/04/investing/premarket-stocks-trading/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>SoftBank and Toyota want driverless cars to change the world</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/lTv_AphBRo4/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/04/technology/softbank-toyota-masa-son/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181004090933-01-toyota-softbank-1004-restricted-120x90.jpg" height="90" width="120" />
-<description>Softbank and Toyota are partnering on an effort to use autonomous vehicles and other technologies to change the world of transportation.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/lTv_AphBRo4" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Thu, 04 Oct 2018 05:27:31 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/04/technology/softbank-toyota-masa-son/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Aston Martin falls 5% in its London IPO</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/UWgkvIfP_XI/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/03/investing/aston-martin-ipo/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180920063734-aston-martin-ipo-restricted-120x90.jpg" height="90" width="120" />
-<description>Aston Martin is joining the ranks of listed automakers with an IPO that values the British company at more than $5 billion.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/UWgkvIfP_XI" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 23:54:24 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/03/investing/aston-martin-ipo/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Barnes &amp; Noble stock soars 20% as it explores a sale</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/M4Jz1s5kLs8/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/03/news/companies/barnes-and-noble-sale/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180906092226-barnes-and-noble-instory-120x90.jpg" height="90" width="120" />
-<description>Barnes &amp; Noble jumped more than 20% after it said it would review a sale of the troubled company.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/M4Jz1s5kLs8" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 19:59:15 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/03/news/companies/barnes-and-noble-sale/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Why it's time for investors to go on the defense </title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/MNBt3kv0JUY/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/03/investing/markets-now-investing-defense/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180912162413-nyse-traders-aug-22-120x90.jpg" height="90" width="120" />
-<description>Howard Marks, co-chairman of Oaktree Capital, explains why investors should start treading lightly.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/MNBt3kv0JUY" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 23:28:41 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/03/investing/markets-now-investing-defense/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>The Toys 'R' Us brand may be brought back to life</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/hmN7_lOkZnU/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/03/news/companies/toys-r-us-brand/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180317164312-toys-r-us-closing-sign-120x90.jpg" height="90" width="120" />
-<description>Bankrupt toy retailer tells bankruptcy court it is looking at possibly reviving the Toys 'R' Us and Babies 'R' Us brands.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/hmN7_lOkZnU" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 23:54:17 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/03/news/companies/toys-r-us-brand/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>The internet industry is suing California over its net neutrality law</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/SjtVyLlXRHA/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/03/technology/california-net-neutrality-suit/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181003145709-net-neutrality-protest-2017-file-120x90.jpg" height="90" width="120" />
-<description>Broadband trade groups and the DOJ have filed lawsuits over California's days-old law protecting net neutrality.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/SjtVyLlXRHA" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 17:46:47 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/03/technology/california-net-neutrality-suit/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Priyanka Chopra is helping Bumble expand in India</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/IcjguPe3G-Y/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/03/technology/bumble-india-priyanka-chopra/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181002113026-100218-priyanka-chopra-bumble-gfx-120x90.jpg" height="90" width="120" />
-<description>It's the latest online dating app to compete for the hearts of women in India.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/IcjguPe3G-Y" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 13:40:37 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/03/technology/bumble-india-priyanka-chopra/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Microsoft unveils new Surface devices</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/mERKBBm5KmQ/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/02/technology/microsoft-surface-computers/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181002131437-03-microsoft-surface-computers-120x90.jpg" height="90" width="120" />
-<description>Microsoft announced a new version of its desktop computer Surface Studio, and its first pair of smart headphones. It also announced the Surface Pro 6 and Surface Laptop 2.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/mERKBBm5KmQ" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Tue, 02 Oct 2018 23:46:21 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/02/technology/microsoft-surface-computers/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Getting health insurance through work now costs nearly $20,000</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/3N8m4XT0qrk/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/03/news/economy/employer-health-insurance-cost/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181002174059-employer-health-benefits-120x90.jpg" height="90" width="120" />
-<description>Family health insurance now costs employers and workers nearly $20,000 a year, on average, according to a new report.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/3N8m4XT0qrk" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 10:02:47 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/03/news/economy/employer-health-insurance-cost/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>All eyes on Congress as vote on Kavanaugh draws near</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/fS9JwLh44nk/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/04/media/reliable-sources-10-03-18/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181003194636-kavanaugh-testifies-0927-120x90.jpg" height="90" width="120" />
-<description>The lead story for Thursday's morning shows: The impending vote to advance Brett Kavanaugh's nomination to the Supreme Court.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/fS9JwLh44nk" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Thu, 04 Oct 2018 00:47:47 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/04/media/reliable-sources-10-03-18/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>She was the first openly gay CEO at a Fortune 500 company</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/PAmyNhTyuog/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/01/news/companies/beth-ford-boss-files/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180727104314-beth-ford-land-o-lakes-120x90.jpg" height="90" width="120" />
-<description>Land O'Lakes CEO Beth Ford charts her career path, from her first job to becoming the first openly gay CEO at a Fortune 500 company in an interview with CNN's Boss Files.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/PAmyNhTyuog" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Tue, 02 Oct 2018 05:19:22 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/01/news/companies/beth-ford-boss-files/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Crypto companies are trying to cash in at a really bad time</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/0pKeXrlECGQ/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/09/27/technology/bitcoin-mining-ipo/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180124165635-should-i-buy-bitcoin-120x90.jpg" height="90" width="120" />
-<description>The world's top makers of bitcoin mining technology hope to raise money from investors by selling shares in Hong Kong.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/0pKeXrlECGQ" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 23:47:32 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/09/27/technology/bitcoin-mining-ipo/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>It's getting a lot harder for global brands to win in China</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/QvPU4bw6fH4/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/09/25/news/companies/brands-china-consumer/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180927123618-apple-store-zhejiang-greet-120x90.jpg" height="90" width="120" />
-<description>Changing tastes and the challenge from new Chinese rivals are forcing US and European companies including Apple and Starbucks to adopt new strategies to succeed in the world's second biggest economy.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/QvPU4bw6fH4" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 23:47:32 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/09/25/news/companies/brands-china-consumer/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Facebook doesn't think hackers accessed third-party sites</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/uYYwo4u05g0/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/02/technology/facebook-hack-third-party/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181001153815-100118-facebook-hacking-gfx-120x90.jpg" height="90" width="120" />
-<description>Read full story for latest details.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/uYYwo4u05g0" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Tue, 02 Oct 2018 23:49:45 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/02/technology/facebook-hack-third-party/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>A llama, bagel and frisbee: Apple's new iOS 12.1 emoji</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/tVlkipYCq-c/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/02/technology/apple-emoji-ios-12-1-llama/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181002134214-100218-apple-emojis-gfx-120x90.jpg" height="90" width="120" />
-<description>A collection of new emoji is coming to iOS 12.1 for iPhone and iPad users, including food and cute animals.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/tVlkipYCq-c" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Tue, 02 Oct 2018 14:17:18 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/02/technology/apple-emoji-ios-12-1-llama/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Tencent Music aims to raise $1 billion by going public</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/-kmpoYc55R0/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/02/technology/business/tencent-music-ipo/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180709090119-tencent-headquarters-120x90.jpg" height="90" width="120" />
-<description>Tencent Music dominates the music streaming market in China through its Spotify-like apps.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/-kmpoYc55R0" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 00:11:33 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/02/technology/business/tencent-music-ipo/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Tesla needed some good news. These sales numbers help</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/NfLK0SRobL8/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/02/technology/tesla-sales/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181002133722-01-tesla-model-3-1002-restricted-120x90.jpg" height="90" width="120" />
-<description>Read full story for latest details.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/NfLK0SRobL8" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 04:24:49 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/02/technology/tesla-sales/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>Volkswagen dumps jailed Audi CEO</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/jX98hg6VyEA/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/02/news/volkswagen-audi-rupert-stadler/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180618101244-audi-ceo-rupert-stadler-120x90.jpg" height="90" width="120" />
-<description>Volkswagen has severed ties with suspended Audi CEO Rupert Stadler, who has been jailed since June in connection with an emissions investigation.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/jX98hg6VyEA" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Wed, 03 Oct 2018 06:04:17 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/02/news/volkswagen-audi-rupert-stadler/index.html?section=money_topstories</feedburner:origLink></item>
-<item>
-<title>S&amp;P downgrades debt-riddled GE and GE Capital</title>
-<link>http://rss.cnn.com/~r/rss/money_topstories/~3/Lp5v0-kd2nU/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2018/10/02/investing/general-electric-downgrade-debt/index.html?section=money_topstories</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/181002143051-100218-ge-underwater-120x90.jpg" height="90" width="120" />
-<description>New General Electric boss Larry Culp just got a fresh reminder of the debt-riddled balance sheet he's inheriting.&lt;img src="http://feeds.feedburner.com/~r/rss/money_topstories/~4/Lp5v0-kd2nU" height="1" width="1" alt=""/&gt;</description>
-<pubDate>Tue, 02 Oct 2018 14:48:59 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2018/10/02/investing/general-electric-downgrade-debt/index.html?section=money_topstories</feedburner:origLink></item>
-</channel></rss>
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Business</title>
+    <link>https://www.nytimes.com/section/business?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Business.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2019  The New York Times Company</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 09:42:36 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Business</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/business?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>In Test of Boeing Jet, Pilots Had 40 Seconds to Fix Error</title>
+      <link>https://www.nytimes.com/2019/03/25/business/boeing-simulation-error.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/boeing-simulation-error.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/business/boeing-simulation-error.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25boeing-1/25boeing-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A 737 Max 8 at Boeing&#x2019;s plant in Renton, Wash. In simulations of a suspected problem in the crash of a Max 8 in Indonesia last fall, pilots had just moments to disengage a faulty system.</media:description>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <description>They had just moments to override an automated system and avert disaster in simulations of problems with the Lion Air plane that crashed last fall.</description>
+      <dc:creator>JACK NICAS, JAMES GLANZ and DAVID GELLES</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 02:55:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ethiopian Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lion Air</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">MCAS</category>
+    </item>
+    <item>
+      <title>Uber to Acquire Careem, Its Top Mideast Rival</title>
+      <link>https://www.nytimes.com/2019/03/26/business/dealbook/uber-careem-mideast-rival.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/26/business/dealbook/uber-careem-mideast-rival.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/26/business/dealbook/uber-careem-mideast-rival.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25UBER/25UBER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A driver for Careem in Riyadh, Saudi Arabia. A $3.1 billion deal for Careem could cut Uber&#x2019;s losses in the Middle East.</media:description>
+      <media:credit>Nariman El-Mofty/Associated Press</media:credit>
+      <description>The $3.1 billion deal, a break from Uber&#x2019;s approach in some other regions, will give the ride-hailing company a strong foothold in the area ahead of its expected public offering.</description>
+      <dc:creator>KATE CONGER</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 06:45:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Careem Networks FZ LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khosrowshahi, Dara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+    </item>
+    <item>
+      <title>Apple Unveils Video Service With Celebrity Parade but Few Details</title>
+      <link>https://www.nytimes.com/2019/03/25/technology/apple-news-streaming-service.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/technology/apple-news-streaming-service.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/technology/apple-news-streaming-service.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/multimedia/25apple-newpromo/25apple-newpromo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Apple&#x2019;s chief executive, Tim Cook, Oprah Winfrey, and Steven Spielberg at the company&#x2019;s headquarters after the announcement of Apple&#x2019;s new streaming-video service.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>The iPhone maker is partnering with Hollywood heavyweights and publishers to provide broad new services to its users.</description>
+      <dc:creator>DAISUKE WAKABAYASHI and JOHN KOBLIN</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 01:05:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Web-Original Programming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple TV</category>
+    </item>
+    <item>
+      <title>Samsung Predicts Disappointing Results as Chip Prices Fall</title>
+      <link>https://www.nytimes.com/2019/03/25/business/samsung-earnings-chips.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/samsung-earnings-chips.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/business/samsung-earnings-chips.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25samsung/25samsung-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Samsung&#x2019;s announcement on Tuesday is the latest indication of waning global demand for sophisticated tech products.</media:description>
+      <media:credit>Gabriel Bouys/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Weaker demand for smartphones in China and elsewhere has put increasing pressure on the gadget industry.</description>
+      <dc:creator>BEN DOOLEY</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 03:36:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Electronics Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+    <item>
+      <title>State by State, Gig Companies Maneuver to Shape Labor Rules</title>
+      <link>https://www.nytimes.com/2019/03/26/business/economy/gig-economy-lobbying.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/26/business/economy/gig-economy-lobbying.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/26/business/economy/gig-economy-lobbying.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/26/business/26gigeconomy1/26gigeconomy1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Uber and Lyft argue that their drivers are contractors because the drivers decide when, where and how long they work. Lyft says forcing it to classify them as employees &#x201C;may require us to significantly alter our existing business model.&#x201D;</media:description>
+      <media:credit>Christie Hemm Klok for The New York Times</media:credit>
+      <description>Lobbyists for clients like Uber and Handy are pressing legislatures, and sometimes working around them, to keep workers from being deemed employees.</description>
+      <dc:creator>NOAM SCHEIBER</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 09:00:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tusk, Bradley (1973- )</category>
+    </item>
+    <item>
+      <title>Hey, Look at Me! I&#x2019;m a Venture Capitalist</title>
+      <link>https://www.nytimes.com/2019/03/24/technology/venture-capitalists-ipo-pinterest.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/24/technology/venture-capitalists-ipo-pinterest.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/24/technology/venture-capitalists-ipo-pinterest.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/23/business/23strut-sub/23strut-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Dalbert B. Vilarino</media:credit>
+      <description>As high-profile start-ups like Lyft, Pinterest and Uber prepare to go public, Silicon Valley venture capitalists are using the moment to shine the spotlight on themselves.</description>
+      <dc:creator>ERIN GRIFFITH</dc:creator>
+      <pubDate>Sun, 24 Mar 2019 09:00:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pinterest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">FirstMark Capital LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Floodgate Fund LP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miura-Ko, Ann</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Heitzmann, Rick</category>
+    </item>
+    <item>
+      <title>After Mueller Report, News Media Leaders Defend Their Work</title>
+      <link>https://www.nytimes.com/2019/03/25/business/media/mueller-report-media.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/media/mueller-report-media.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/business/media/mueller-report-media.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25MUELLERMEDIA-01/25MUELLERMEDIA-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The special counsel, Robert S. Mueller III, with his wife, Ann Mueller, on Sunday. &#x201C;We are not investigators,&#x201D; CNN&#x2019;s president, Jeff Zucker, said. &#x201C;We are journalists, and our role is to report the facts as we know them, which is exactly what we did.&#x201D;</media:description>
+      <media:credit>Tasos Katopodis/Getty Images</media:credit>
+      <description>&#x201C;Our job is to bring facts to light,&#x201D; said Martin Baron, editor of The Washington Post. &#x201C;Others make determinations about prosecutable criminal offenses.&#x201D;</description>
+      <dc:creator>AMY CHOZICK</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 04:02:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">ABC News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">BuzzFeed Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Washington Post</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Review</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Russian Roulette: The Inside Story of Putin's War on America and the Election of Donald Trump (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baron, Martin D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hannity, Sean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fleiss, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gidley, Hogan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Isikoff, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maddow, Rachel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manafort, Paul J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ross, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Ben E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steele, Christopher (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stone, Roger J Jr</category>
+    </item>
+    <item>
+      <title>At the 737 Max Factory, Pilots Simulate New Boeing Software</title>
+      <link>https://www.nytimes.com/2019/03/24/business/boeing-737-pilots-simulators.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/24/business/boeing-737-pilots-simulators.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/24/business/boeing-737-pilots-simulators.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/24/business/24BOEINGPILOTS/24BOEINGPILOTS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Boeing 737 Max 8 plane at the Boeing plant in Renton, Wash.</media:description>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <description>Pilots from five airlines gathered in Renton, Wash., on Saturday to review proposed changes to the software of the 737 Max, two of which have crashed.</description>
+      <dc:creator>DAVID GELLES</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 11:23:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ethiopian Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lion Air</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Southwest Airlines Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+    </item>
+    <item>
+      <title>China Pledges Openness in Hopes of Reaching a Trade Deal</title>
+      <link>https://www.nytimes.com/2019/03/24/business/china-trade-xi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/24/business/china-trade-xi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/24/business/china-trade-xi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/24/business/24chinatrade1/24chinatrade1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A container ship in the Chinese port of Qingdao. Chinese exports to the United States have been hurt in an ongoing trade war.</media:description>
+      <media:credit>Chinatopix, via Associated Press</media:credit>
+      <description>Top Chinese officials, looking at a skeptical audience both at home and abroad, pledge to open the country&#x2019;s markets to foreign investment.</description>
+      <dc:creator>KEITH BRADSHER</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 00:04:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Han Zheng (1954- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Noted: Why Is Silicon Valley So Obsessed With the Virtue of Suffering?</title>
+      <link>https://www.nytimes.com/2019/03/26/style/silicon-valley-stoics.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/26/style/silicon-valley-stoics.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/26/style/silicon-valley-stoics.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/13/style/13stoics-1/13stoics-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Photo illustration by Tracy Ma/The New York Times; Getty Images (vest)</media:credit>
+      <description>The Stoics and friends continue to be the dominant thought leaders from Google to Apple &#x2014; and a new entrepreneur lobbying firm has even named itself Cicero.</description>
+      <dc:creator>NELLIE BOWLES</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 09:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Stoicism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
+    </item>
+    <item>
+      <title>Duke University to Pay $112.5 Million to Settle Claims of Research Misconduct</title>
+      <link>https://www.nytimes.com/2019/03/25/science/duke-settlement-research.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/science/duke-settlement-research.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/science/duke-settlement-research.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/science/25DUKE/25DUKE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Duke University&#x2019;s medical school. A dozen papers by a former researcher in the pulmonary, allergy and critical care department have been retracted since reports of falsified data surfaced.</media:description>
+      <media:credit>Madeline Gray for The New York Times</media:credit>
+      <description>The university submitted falsified data in connection with 30 grants obtained from the N.I.H. and E.P.A., according to a whistle-blower lawsuit.</description>
+      <dc:creator>SHEILA KAPLAN</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 23:45:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Duke University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Falsification of Data</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+    </item>
+    <item>
+      <title>Museums Cut Ties With Sacklers as Outrage Over Opioid Crisis Grows</title>
+      <link>https://www.nytimes.com/2019/03/25/arts/design/sackler-museums-donations-oxycontin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/arts/design/sackler-museums-donations-oxycontin.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/arts/design/sackler-museums-donations-oxycontin.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/arts/25SACKLER1/25SACKLER1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters at the Guggenheim Museum last month dropped white slips of paper symbolizing OxyContin prescriptions. Last week the museum said it would no longer accept money from members of the family behind the drug.</media:description>
+      <media:credit>The New York Times</media:credit>
+      <description>Accusations that the family behind OxyContin actively downplayed its perils have led arts and education institutions to rethink accepting Sackler funds.</description>
+      <dc:creator>ALEX MARSHALL</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 22:46:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Opioids and Opiates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">OxyContin (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Art Newspaper</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">BP Plc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">British Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Park Conservancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Dia Art Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Guggenheim, Solomon R, Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Louvre Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Metropolitan Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Portrait Gallery (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Royal College of Art (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Science Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">South London Gallery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tate Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tate Modern</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Victoria and Albert Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Westminster Abbey (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Whitney Museum of American Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sackler, Richard (1945- )</category>
+    </item>
+    <item>
+      <title>WeWork&#x2019;s Losses Swell to Nearly $2 Billion as It Seeks Global Expansion</title>
+      <link>https://www.nytimes.com/2019/03/25/business/dealbook/wework-loss-billion.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/dealbook/wework-loss-billion.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/business/dealbook/wework-loss-billion.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25wework/20wework-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A WeWork common space in Manhattan. The company argues that its roughly $2 billion in losses last year are commensurate with the size of its ambitions.</media:description>
+      <media:credit>Cole Wilson for The New York Times</media:credit>
+      <description>The co-working start-up said that it lost about $1.9 billion last year, even as its revenue doubled amid breakneck growth in space and customers.</description>
+      <dc:creator>MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 22:49:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Co-Working</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WeWork Companies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">SOFTBANK Corporation</category>
+    </item>
+    <item>
+      <title>Susan Chira, Veteran New York Times Editor, Will Lead The Marshall Project</title>
+      <link>https://www.nytimes.com/2019/03/25/business/chira-new-york-times-marshall-project.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/chira-new-york-times-marshall-project.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/business/chira-new-york-times-marshall-project.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25MARSHALL-01/25MARSHALL-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Susan Chira, a longtime reporter and editor at The New York Times, will succeed Bill Keller as editor in chief at The Marshall Project.</media:description>
+      <media:credit>James Nieves/The New York Times</media:credit>
+      <description>Ms. Chira, who shared a 2018 Pulitzer Prize for coverage of workplace sexual harassment, will succeed Bill Keller as the leader of a nonprofit news organization focused on criminal justice issues.</description>
+      <dc:creator>TIFFANY HSU</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 01:29:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pulitzer Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Knight, John S and James L, Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Marshall Project, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">ProPublica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Rockefeller Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chira, Susan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keller, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marshall, Thurgood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barsky, Neil</category>
+    </item>
+    <item>
+      <title>Turkey to Investigate JPMorgan Over Charges It &#x2018;Caused Volatility&#x2019; in the Markets</title>
+      <link>https://www.nytimes.com/2019/03/25/business/turkey-jpmorgan-erdogan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/turkey-jpmorgan-erdogan.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/business/turkey-jpmorgan-erdogan.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25TURKEYJPM-1/25TURKEYJPM-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Turkish lira, which has been slipping in value over the last year, slumped more than 5 percent on Friday.</media:description>
+      <media:credit>Murad Sezer/Reuters</media:credit>
+      <description>With days until local elections, Turkey&#x2019;s banking regulator accused JPMorgan Chase and other banks of issuing &#x201C;misleading and manipulative&#x201D; investment advice.</description>
+      <dc:creator>CARLOTTA GALL</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 21:00:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JPMorgan Chase &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+    </item>
+    <item>
+      <title>An Ex-Fox News Host Pitched &#x2018;Financial Freedom.&#x2019; His Clients Want Their Money Back.</title>
+      <link>https://www.nytimes.com/2019/03/25/business/fox-news-clayton-morris-indianapolis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/fox-news-clayton-morris-indianapolis.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/business/fox-news-clayton-morris-indianapolis.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/26/business/26morris7/00morris7-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Clayton Morris, a former "Fox and Friends Weekend" host, at his home in New Jersey. He and his wife offered to help average investors get into real estate, but many of the couple's clients say they lost thousands of dollars.</media:description>
+      <media:credit>Jackie Molloy for The New York Times</media:credit>
+      <description>Clayton Morris has been sued by nearly two dozen customers who say they were sold ramshackle homes as investment properties.</description>
+      <dc:creator>MATTHEW GOLDSTEIN</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 20:53:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morris, Clayton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Morris Invest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indianapolis (Ind)</category>
+    </item>
+    <item>
+      <title>Ex- Hong Kong Official Gets Lighter Sentence in Bribery Case</title>
+      <link>https://www.nytimes.com/2019/03/25/business/cefc-china-patrick-ho-bribery.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/cefc-china-patrick-ho-bribery.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/business/cefc-china-patrick-ho-bribery.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25CEFC2/25CEFC2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A federal judge gave Patrick Ho substantial credit for tutoring and counseling many inmates at the Manhattan Correctional Center when she sentenced him on Monday.</media:description>
+      <media:credit>Franke Tsang/South China Morning Post, via Getty Images</media:credit>
+      <description>Patrick Ho, who was convicted in a bribery case connected to a Chinese oil company, received a lenient sentence partly because of good works in custody.</description>
+      <dc:creator>MATTHEW GOLDSTEIN</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 06:32:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">CEFC China Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ho, Patrick</category>
+    </item>
+    <item>
+      <title>Book Entry: Review: How to Address Social Immobility? &#x2018;The Human Network&#x2019; Offers a Road Map</title>
+      <link>https://www.nytimes.com/2019/03/25/business/dealbook/human-network-social-immobility.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/dealbook/human-network-social-immobility.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/business/dealbook/human-network-social-immobility.html?partner=rss&amp;emc=rss"/>
+      <description>The United States ranks toward the bottom of social mobility. Professor Matthew O. Jackson&#x2019;s new book shows why proposals to reduce inequality won&#x2019;t solve the problem of mobility.</description>
+      <dc:creator>JONATHAN A. KNEE</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 19:18:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Stanford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Price of Admission: How America's Ruling Class Buys Its Way Into Elite Colleges -- and Who Gets Left Outside the Gates (Book)</category>
+    </item>
+    <item>
+      <title>Jardini&#xE8;re, a Pioneer of High-End Dining and Design in San Francisco, Will Close</title>
+      <link>https://www.nytimes.com/2019/03/25/dining/jardiniere-closing-traci-des-jardins.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/dining/jardiniere-closing-traci-des-jardins.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/dining/jardiniere-closing-traci-des-jardins.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/dining/25Jardiniere3/merlin_152476743_a876bd14-0f95-4c9f-94e5-ac33f05f57c4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;My passion is moving me in a different direction,&#x201D; said Traci Des Jardins. The chef is shown here in a 2007 photo taken at Jardini&#xE8;re.</media:description>
+      <media:credit>Eric Risberg / Associated Press</media:credit>
+      <description>The chef Traci Des Jardins says she&#x2019;s &#x2018;tired of fine dining&#x2019; and wants to focus on Mexican food.</description>
+      <dc:creator>KIM SEVERSON</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 21:00:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Des Jardins, Traci</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Jardiniere (San Francisco restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+    </item>
+    <item>
+      <title>Women at Breast Implant Hearing Call for Disclosure of Safety Risks</title>
+      <link>https://www.nytimes.com/2019/03/25/health/breast-implants-cancer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/health/breast-implants-cancer.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/health/breast-implants-cancer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/science/25IMPLANT1/25IMPLANT1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Holly Davis was among the women who testified about health concerns involving breast implants at an advisory panel hearing for the Food and Drug Administration.</media:description>
+      <media:credit>Greg Kahn for The New York Times</media:credit>
+      <description>While industry representatives insisted the implants are safe, others at an F.D.A. panel meeting urged for warnings about links to illnesses and cancer.</description>
+      <dc:creator>DENISE GRADY and RONI CARYN RABIN</dc:creator>
+      <pubDate>Tue, 26 Mar 2019 01:05:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Implants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastic Surgery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food and Drug Administration</category>
+    </item>
+    <item>
+      <title>Germany&#x2019;s Second-Richest Family Discovers a Dark Nazi Past</title>
+      <link>https://www.nytimes.com/2019/03/25/world/europe/nazi-laborers-jab-holding.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/world/europe/nazi-laborers-jab-holding.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/world/europe/nazi-laborers-jab-holding.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/world/25germany1/25germany1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A JAB Holding Company office building in Mannheim, Germany.</media:description>
+      <media:credit>Simon Hofmann/Getty Images</media:credit>
+      <description>The Reimann family, with stakes in well-known brands like Krispy Kreme and Pret A Manger, have discovered that their predecessors used forced laborers.</description>
+      <dc:creator>KATRIN BENNHOLD</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 22:28:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Forced Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Family Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reimann family</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JAB Holding Company</category>
+    </item>
+    <item>
+      <title>Bayer and Johnson &amp; Johnson Settle Lawsuits Over Xarelto, a Blood Thinner, for $775 Million</title>
+      <link>https://www.nytimes.com/2019/03/25/health/xarelto-blood-thinner-lawsuit-settlement.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/health/xarelto-blood-thinner-lawsuit-settlement.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/health/xarelto-blood-thinner-lawsuit-settlement.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/science/25BLOODTHINNER/25BLOODTHINNER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Janssen Pharmaceuticals, Inc., via Associated Press</media:credit>
+      <description>The settlement resolves about 25,000 lawsuits, which claimed the companies failed to warn about deadly bleeding episodes caused by the drug.</description>
+      <dc:creator>KATIE THOMAS</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 16:04:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Xarelto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bayer AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Johnson &amp; Johnson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>California Company Recalls Avocados From Six States Over Listeria Fears</title>
+      <link>https://www.nytimes.com/2019/03/25/business/avocado-recall-california.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/avocado-recall-california.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/business/avocado-recall-california.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/us/25xp-avocado/25xp-avocado-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The hand-packing process line at the Henry Avocado Corporation in Escondido, Calif. The company is recalling avocados sent to six states over listeria concerns.</media:description>
+      <media:credit>Nicole Bengiveno/The New York Times</media:credit>
+      <description>The recalled avocados were packed at a facility in California and distributed in that state, Arizona, Florida, New Hampshire, North Carolina and Wisconsin.</description>
+      <dc:creator>MATT STEVENS</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 14:37:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Avocados</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Listeria Monocytogenes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Henry Avocado Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+    </item>
+    <item>
+      <title>DealBook Briefing: Mueller&#x2019;s Done, but Trump Still Faces the Law</title>
+      <link>https://www.nytimes.com/2019/03/25/business/dealbook/mueller-trump-russia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/dealbook/mueller-trump-russia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/business/dealbook/mueller-trump-russia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25db-newsletter-mueller1/merlin_152569077_d6203225-34e8-4e97-9a7f-81503915b2a8-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The letter from Attorney General William Barr to Congress outlining principal conclusions from Robert Mueller&#x2019;s report.</media:description>
+      <media:credit>Jon Elswick/Associated Press</media:credit>
+      <description>Legal challenges still stand in the way of the White House, despite Robert Mueller&#x2019;s good news for President Trump.</description>
+      <dc:creator/>
+      <pubDate>Mon, 25 Mar 2019 11:11:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>He Tried to Bilk Google and Facebook Out of $100 Million With Fake Invoices</title>
+      <link>https://www.nytimes.com/2019/03/25/business/facebook-google-wire-fraud.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/facebook-google-wire-fraud.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/business/facebook-google-wire-fraud.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/nyregion/25xp-fraud1/25xp-fraud1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Evaldas Rimasauskas, seen in 2017, pleaded guilty to wire fraud last week.</media:description>
+      <media:credit>Mindaugas Kulbis/Associated Press</media:credit>
+      <description>A Lithuanian man pleaded guilty last week to wire fraud and said he was part of a scheme to imitate vendors and fraudulently invoice corporations.</description>
+      <dc:creator>JACEY FORTIN</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 11:47:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Quanta Computer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evaldas Rimasauskas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+    </item>
+    <item>
+      <title>Adventurous. Alone. Attacked.</title>
+      <link>https://www.nytimes.com/2019/03/25/travel/solo-female-travel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/travel/solo-female-travel.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/25/travel/solo-female-travel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/31/travel/female-solo-slide-2S5G/female-solo-slide-2S5G-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Hannah Gavios in Queens, N.Y.</media:description>
+      <media:credit>George Etheredge for The New York Times</media:credit>
+      <description>The number of female solo travelers has skyrocketed, but amid Instagram-worthy escapades are tales of violence and death, raising questions about how the world is greeting women who travel alone.</description>
+      <dc:creator>MEGAN SPECIA and TARIRO MZEZEWA</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 23:11:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Costa Rica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bolivia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gavios, Hannah M (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jespersen, Louisa Vesterager</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Millane, Grace (d 2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ueland, Maren</category>
+    </item>
+    <item>
+      <title>For Many Boys With Duchenne Muscular Dystrophy, Bright Hope Lies Just Beyond Reach</title>
+      <link>https://www.nytimes.com/2019/03/25/health/duchenne-muscular-dystrophy-trials.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/health/duchenne-muscular-dystrophy-trials.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/health/duchenne-muscular-dystrophy-trials.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/26/science/25SCI-TRIALS-henri1/25SCI-TRIALS-henri1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The parents of Henri Bigelow, 8, of Millcreek, Utah, hoped that he would qualify for the only gene-therapy trial for Duchenne muscular dystrophy that will accept boys his age. He did not.</media:description>
+      <media:credit>Kim Raff for The New York Times</media:credit>
+      <description>Scientists are testing nearly two dozen treatments that might stop the disease. But enrollment in the trials is very restricted, and few children qualify.</description>
+      <dc:creator>GINA KOLATA</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 13:22:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muscular Dystrophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muscles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Muscular Dystrophy Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+    </item>
+    <item>
+      <title>Global Stocks Fall as Pessimism Continues</title>
+      <link>https://www.nytimes.com/2019/03/25/business/stock-market.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/25/business/stock-market.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/25/business/stock-market.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Worries that the United States economy could slip into recession plagued investors for the second straight trading day. In Japan, the market fell 3 percent.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 12:59:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+    </item>
+    <item>
+      <title>Mueller Report News Interrupts Sunday Golf and Video Games</title>
+      <link>https://www.nytimes.com/2019/03/24/business/media/cnn-fox-news-mueller.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/24/business/media/cnn-fox-news-mueller.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/24/business/media/cnn-fox-news-mueller.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/24/business/24muellermedia-grid/24muellermedia-grid-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Clockwise from top left: CNN, Fox News, MSNBC, and ABC as the Mueller report news broke on Sunday.</media:description>
+      <media:credit>Clockwise from top left: CNN, Fox News, NBC, ABC</media:credit>
+      <description>The news media began assessing its own coverage of the investigation hours before a breaking story punctuated a long period of speculative TV talk.</description>
+      <dc:creator>JIM WINDOLF</dc:creator>
+      <pubDate>Sun, 24 Mar 2019 23:20:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">MSNBC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Broadcasting Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Rolling Stone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wall Street Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bernstein, Carl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdoch, Rupert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reid, Joy-Ann</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadler, Jerrold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taibbi, Matt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Todd, Chuck (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wallace, Chris (1947- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Watters, Jesse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Meet the Press (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Fox News Sunday (TV Program)</category>
+    </item>
+    <item>
+      <title>Viking Cruise Ship Stranded Off Norway Reaches Shore After Harrowing Rescue</title>
+      <link>https://www.nytimes.com/2019/03/24/world/europe/norway-ship-viking-sky.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/24/world/europe/norway-ship-viking-sky.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/24/world/europe/norway-ship-viking-sky.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/world/24Norway1/merlin_152534607_b2e1aa83-6bc2-4f5d-97ff-822074ef44b4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Passengers on the Viking Sky waited to be evacuated on Saturday.</media:description>
+      <media:credit>Michal Stewart, via Associated Press</media:credit>
+      <description>The Viking Sky was carrying more than 1,300 people when it sent a mayday alert Saturday. After recovering the use of some engines, the ship finally limped into port.</description>
+      <dc:creator>ILIANA MAGRA</dc:creator>
+      <pubDate>Sun, 24 Mar 2019 19:30:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rescues</category>
+    </item>
+    <item>
+      <title>Cambodia Faces Major Economic Blow as E.U. Weighs Ending Trade Deal</title>
+      <link>https://www.nytimes.com/2019/03/24/world/asia/eu-cambodia-trade.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/24/world/asia/eu-cambodia-trade.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/24/world/asia/eu-cambodia-trade.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/24/world/24Cambodia1/24Cambodia1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A garment factory in Prey Nob, Cambodia. Since gaining access to the European market in 2001, the textile industry in the country has grown rapidly and now employs about 700,000 people.</media:description>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <description>The country&#x2019;s worsening rights record and oppression of the opposition could lead to the revoking of its special access to European markets.</description>
+      <dc:creator>SETH MYDANS</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 03:00:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hun Sen</category>
+    </item>
+    <item>
+      <title>DealBook Special: Everything You Need to Know About the Lyft I.P.O.</title>
+      <link>https://www.nytimes.com/2019/03/24/business/dealbook/lyft-ipo-cheat-sheet.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/24/business/dealbook/lyft-ipo-cheat-sheet.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/24/business/dealbook/lyft-ipo-cheat-sheet.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/24/business/24db-newsletter-top/24db-newsletter-top-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lyft hopes to be valued at $23 billion when it makes its public market debut in the coming week.<br/><br/></media:description>
+      <media:credit>Lucy Nicholson/Reuters</media:credit>
+      <description>How much will the company be valued at? What can go wrong? Who stands to get rich? Let us answer all those questions and more.</description>
+      <dc:creator/>
+      <pubDate>Sun, 24 Mar 2019 10:52:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+    </item>
+    <item>
+      <title>Cruise Ship Near Norway With Nearly 1,400 Passengers Is Being Evacuated</title>
+      <link>https://www.nytimes.com/2019/03/23/world/europe/viking-sky-cruise-ship-evacuation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/23/world/europe/viking-sky-cruise-ship-evacuation.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/23/world/europe/viking-sky-cruise-ship-evacuation.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/23/us/politics/23xp-ship/merlin_152508786_9cafc190-ba9a-4614-bdd7-ef811f275083-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nearly 1,400 passengers and crew members on board the Viking Sky were being evacuated on Saturday after the ship lost engine power.</media:description>
+      <media:credit>Odd Roar Lange/NTB scanpix, via Associated Press</media:credit>
+      <description>Dramatic videos and photos on Twitter showed the ship listing, furniture sliding from one side to the other and water rushing on board.</description>
+      <dc:creator>MIHIR ZAVERI and SANDRA E. GARCIA</dc:creator>
+      <pubDate>Sun, 24 Mar 2019 15:10:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Viking River Cruises Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Viking Sky</category>
+    </item>
+    <item>
+      <title>Boeing Was &#x2018;Go, Go, Go&#x2019; to Beat Airbus With the 737 Max</title>
+      <link>https://www.nytimes.com/2019/03/23/business/boeing-737-max-crash.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/23/business/boeing-737-max-crash.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/23/business/boeing-737-max-crash.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/23/business/23boeing/23boeing-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Work on a 737 Max 8 this week at Boeing&#x2019;s plant in Renton, Wash. When Airbus competed for a big order from American Airlines in 2011, Boeing opted to update its 737 rather than design a new jet.</media:description>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <description>Caught short by its rival&#x2019;s gains, Boeing raced to update its workhorse jet rather than design a new one. Workers describe a hectic project, but say they hadn&#x2019;t felt safety was compromised.</description>
+      <dc:creator>DAVID GELLES, NATALIE KITROEFF, JACK NICAS and REBECCA R. RUIZ</dc:creator>
+      <pubDate>Sun, 24 Mar 2019 00:58:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Airbus Industrie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Airlines</category>
+    </item>
+    <item>
+      <title>Medicare for All Would Abolish Private Insurance. &#x2018;There&#x2019;s No Precedent in American History.&#x2019;</title>
+      <link>https://www.nytimes.com/2019/03/23/health/private-health-insurance-medicare-for-all-bernie-sanders.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/23/health/private-health-insurance-medicare-for-all-bernie-sanders.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/23/health/private-health-insurance-medicare-for-all-bernie-sanders.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/24/science/24ABOLISH/00ABOLISH-bernie-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Senator Bernie Sanders of Vermont was joined by Senator Richard Blumenthal of Connecticut and Senator Kirsten Gillibrand of New York to announce a Medicare for All bill in September 2017.</media:description>
+      <media:credit>Andrew Harnik/Associated Press</media:credit>
+      <description>Unlike Obamacare, emerging plans would sweep away the private health insurance system. What would that mean for the companies&#x2019; workers, the stock market and the cost of care?</description>
+      <dc:creator>REED ABELSON and MARGOT SANGER-KATZ</dc:creator>
+      <pubDate>Sun, 24 Mar 2019 04:01:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Patient Protection and Affordable Care Act (2010)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Sexual Assault on Flights: Experts Recommend Ways to Stay Safe and Combat It</title>
+      <link>https://www.nytimes.com/2019/03/23/travel/airline-flights-sexual-assault.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/23/travel/airline-flights-sexual-assault.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/23/travel/airline-flights-sexual-assault.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/02/11/us/00xp-assaults2/00xp-assaults2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sexual assaults on flights have gained heightened attention by law enforcement, airline workers and the industry in the wake of high-profile cases and the #MeToo movement, officials say.</media:description>
+      <media:credit>Kevork Djansezian/Getty Images</media:credit>
+      <description>The issue gained heightened attention in the wake of high-profile cases and the #MeToo movement, officials say.</description>
+      <dc:creator>CHRISTOPHER MELE</dc:creator>
+      <pubDate>Sat, 23 Mar 2019 09:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Flight Attendants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+    </item>
+    <item>
+      <title>Tyson Recalls 69,000 Pounds of Chicken Strips After Metal Fragments Are Found</title>
+      <link>https://www.nytimes.com/2019/03/22/business/tyson-chicken-recall.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/business/tyson-chicken-recall.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/22/business/tyson-chicken-recall.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/22/business/22xp-tyson1/fileupload-1553287026867-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tyson Foods, whose headquarters is in Springdale, Ark., is recalling 69,000 pounds of chicken strips.</media:description>
+      <media:credit>April L. Brown/Associated Press</media:credit>
+      <description>A spokesman for the company said it would &#x201C;continue to investigate&#x201D; what happened.</description>
+      <dc:creator>CONCEPCI&#xD3;N DE LE&#xD3;N</dc:creator>
+      <pubDate>Fri, 22 Mar 2019 23:13:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food Safety and Inspection Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tyson Foods Inc</category>
+    </item>
+    <item>
+      <title>With Interest: The Week in Business: Boeing Plays It Safe, and Lyft Kicks Off Tech I.P.O.s</title>
+      <link>https://www.nytimes.com/2019/03/22/business/boeing-lyft.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/business/boeing-lyft.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/22/business/boeing-lyft.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/24/business/24WithInterest1-illo/fileupload-1553267450874-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Giacomo Bagnara</media:credit>
+      <description>Here&#x2019;s your weekly smorgasbord of all the tech and business news you missed, plus what you should know heading into Monday.</description>
+      <dc:creator>CHARLOTTE COWLES</dc:creator>
+      <pubDate>Sun, 24 Mar 2019 14:56:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>Pinterest Is Rare &#x2018;Unicorn&#x2019; Preparing an I.P.O. Without Hemorrhaging Cash</title>
+      <link>https://www.nytimes.com/2019/03/22/technology/pinterest-ipo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/technology/pinterest-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/22/technology/pinterest-ipo.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/23/business/23-pinterest-PRINT/22pinterest1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In its offering prospectus, Pinterest reported $756 million in revenue in 2018, which came from advertising, up 60 percent from a year earlier, while it lost $63 million, compared with a net loss of $138 million in 2017.</media:description>
+      <media:credit>Brendan Mcdermid/Reuters</media:credit>
+      <description>The start-up, which lets people create virtual &#x201C;pin boards,&#x201D; officially joined the herd of tech companies stampeding to the public markets this year by unveiling its offering prospectus.</description>
+      <dc:creator>ERIN GRIFFITH</dc:creator>
+      <pubDate>Fri, 22 Mar 2019 23:14:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pinterest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Silbermann, Ben</category>
+    </item>
+    <item>
+      <title>Mueller Speculation on TV Gives Way to Hard News. Then It&#x2019;s Back to Speculation.</title>
+      <link>https://www.nytimes.com/2019/03/22/business/media/cnn-mueller-fox-msnbc.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/business/media/cnn-mueller-fox-msnbc.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/22/business/media/cnn-mueller-fox-msnbc.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/22/business/22MUELLERMEDIA-01/merlin_152460687_815d5b26-85f7-4b29-b7a0-bdbbcb1defd7-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A TV camera outside the Justice Department on Friday.</media:description>
+      <media:credit>Brendan Smialowski/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Anchors posed questions for hours on Friday while waiting for the special counsel&#x2019;s report to drop. When it did, there were few answers.</description>
+      <dc:creator>JOHN KOBLIN</dc:creator>
+      <pubDate>Fri, 22 Mar 2019 23:44:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Huffington Post</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Why Netflix Won&#x2019;t Be Part of Apple TV</title>
+      <link>https://www.nytimes.com/2019/03/22/multimedia/netflix-apple-tv-streaming.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/multimedia/netflix-apple-tv-streaming.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/22/multimedia/netflix-apple-tv-streaming.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25-appleexplainer-PRINT/merlin_139214763_580578ea-f443-48ba-a617-47078bbd65db-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jen Folse, lead designer for Apple TV, at the Apple Worldwide Developer Conference last June. On Monday, Apple plans to unveil a news and entertainment bundle, which will not include Netflix.</media:description>
+      <media:credit>Elijah Nouvelage/Reuters</media:credit>
+      <description>The first skirmishes have already been fought in what could turn into a tech cold war. &#x201C;The game is on,&#x201D; said the Netflix chief executive, Reed Hastings.</description>
+      <dc:creator>EDMUND LEE</dc:creator>
+      <pubDate>Mon, 25 Mar 2019 19:02:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Web-Original Programming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television Sets and Media Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple TV</category>
+    </item>
+    <item>
+      <title>Robert Kraft Awaits Your Judgment: &#x2018;I Am Truly Sorry&#x2019;</title>
+      <link>https://www.nytimes.com/2019/03/22/style/robert-kraft-tom-brady.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/style/robert-kraft-tom-brady.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/22/style/robert-kraft-tom-brady.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/22/style/22robertkraft-1b/22robertkraft-1b-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tom Brady and Robert Kraft at the Super Bowl in 2019.</media:description>
+      <media:credit>Photo Illustration by The New York Times; Kevin C. Cox/Getty Images</media:credit>
+      <description>Tom Brady, Meek Mill, Drew Bledsoe and Kenny Chesney on the man caught up in a scandal.</description>
+      <dc:creator>KATHERINE ROSMAN and KEN BELSON</dc:creator>
+      <pubDate>Sat, 23 Mar 2019 20:05:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kraft, Robert K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New England Patriots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prostitution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Belichick, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brady, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chesney, Kenny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meek Mill (Rapper)</category>
+    </item>
+    <item>
+      <title>Stocks Fall as Bond Market Flashes a Recession Warning</title>
+      <link>https://www.nytimes.com/2019/03/22/business/yield-curve-inverted-recession.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/business/yield-curve-inverted-recession.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/22/business/yield-curve-inverted-recession.html?partner=rss&amp;emc=rss"/>
+      <description>When long-term interest rates fall below short-term rates, it&#x2019;s called a yield curve inversion. It&#x2019;s one of Wall Street&#x2019;s favored predictors of a recession, and it happened on Friday.</description>
+      <dc:creator>MATT PHILLIPS</dc:creator>
+      <pubDate>Sat, 23 Mar 2019 01:48:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Reserve System</category>
+    </item>
+    <item>
+      <title>G.M. Plans New Electric Vehicle Made at Chevy Bolt Plant</title>
+      <link>https://www.nytimes.com/2019/03/22/business/general-motors-electric-vehicle.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/business/general-motors-electric-vehicle.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/22/business/general-motors-electric-vehicle.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/22/business/22motors1/22motors1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mary T. Barra, the chief executive of General Motors, announcing on Friday that the company would invest $300 million in its plant in Orion Township, Mich.</media:description>
+      <media:credit>Bill Pugliano/Getty Images</media:credit>
+      <description>The carmaker said it would invest $300 million in its Orion Township, Mich., plant in connection with producing the new model there.</description>
+      <dc:creator>ZACH WICHTER</dc:creator>
+      <pubDate>Fri, 22 Mar 2019 21:00:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+    </item>
+    <item>
+      <title>Wealth Matters: The Teddy Bear Test, and Other Ways to Pass a State Tax Audit</title>
+      <link>https://www.nytimes.com/2019/03/22/your-money/state-residency-lower-taxes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/your-money/state-residency-lower-taxes.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/22/your-money/state-residency-lower-taxes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/23/business/23WEALTH-01/22WEALTH-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Cities like Miami Beach, Fla., are attractive destinations for residents of the Northeast looking to cut their tax bills, and authorities in their former states are monitoring such moves.</media:description>
+      <media:credit>Pablo Pola Damonte/Getty Images</media:credit>
+      <description>Wealthy people with multiple homes may try to establish residency in lower-tax states to reduce their bill. Advisers say it&#x2019;s a complicated task.</description>
+      <dc:creator>PAUL SULLIVAN</dc:creator>
+      <pubDate>Sat, 23 Mar 2019 03:19:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Evasion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Income</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Personal Finances</category>
+    </item>
+    <item>
+      <title>Bits: The Week in Tech: Our Future Robots Will Need Super-Smart Safety Checks</title>
+      <link>https://www.nytimes.com/2019/03/22/technology/robot-safety-regulation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/technology/robot-safety-regulation.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/03/22/technology/robot-safety-regulation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/25/business/25-TECHNEWSLETTER-PRINT/22technewsletter1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>If software was at fault in the deadly crashes of two Boeing 737s like these, it raises questions about how technology that&#x2019;s critical to safety is regulated.</media:description>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <description>Software looks to be at the heart of the recent Ethiopian Airlines crash. Safety approval of such systems will only get harder as technology advances.</description>
+      <dc:creator>JAMIE CONDLIFFE</dc:creator>
+      <pubDate>Fri, 22 Mar 2019 13:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Supercomputers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Business Machines Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>DealBook Briefing: Rajat Gupta Won&#x2019;t Say Sorry</title>
+      <link>https://www.nytimes.com/2019/03/22/business/dealbook/rajat-gupta.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/03/22/business/dealbook/rajat-gupta.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/03/22/business/dealbook/rajat-gupta.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/22/business/22db-newsletter-gupta/merlin_62418434_0bc5c3d4-886a-4b94-9b37-6b1a7b070110-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rajat Gupta.</media:description>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <description>The former head of McKinsey spent time in prison for tipping an insider-trading ring. Now, Mr. Gupta is speaking out &#x2014; but not apologizing.</description>
+      <dc:creator/>
+      <pubDate>Fri, 22 Mar 2019 11:11:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gupta, Rajat K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">McKinsey &amp; Co</category>
+    </item>
+  </channel>
+</rss>

@@ -58,7 +58,7 @@ defmodule ElixirFeedParser.Parsers.RSS2 do
       author:            author || dc_creator,
       "rss2:dc:creator": entry |> element("dc:creator"),
       categories:        entry |> elements("category"),
-      "rss2:thumbnail":  entry |> element("media:thumbnail", [attr: "url"]),
+      "rss2:thumbnail":  entry |> element("media:content", [attr: "url"]),
       # support dc:identifier too
       id:                entry |> element("guid"),
       "rss2:guid":       entry |> element("guid"),

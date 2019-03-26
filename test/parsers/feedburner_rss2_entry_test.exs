@@ -17,6 +17,6 @@ defmodule ElixirFeedParser.Test.FeedburnerRSS2EntryTest do
   end
 
   test "parse url for thumbnail", %{example2: feed} do
-    assert feed."rss2:thumbnail" == "http://i2.cdn.turner.com/money/dam/assets/170920161756-facebook-logo-wall-120x90.jpg"
+    assert feed."rss2:thumbnail" == "https://static01.nyt.com/images/2019/03/25/business/25boeing-1/25boeing-1-moth.jpg"
   end
 end
