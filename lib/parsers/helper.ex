@@ -26,7 +26,7 @@ defmodule ElixirFeedParser.Parsers.Helper do
         date_time
       "RFC_1123" ->
         date = String.trim(date_time_string)
-        {:ok, date_time} = Timex.parse(date, "{RFC1123}")
+        {:ok, date_time} = Timex.DateFormat.parse(date, "{RFC1123}")
         date_time
     end
   end
